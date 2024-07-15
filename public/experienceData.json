@@ -1,0 +1,29 @@
+[
+    {
+        "company": "Delta India",
+        "jobProfile": "Software Developer",
+        "location": "Pune, India (Hybrid)",
+        "duration": "July 2022 - Present",
+        "highlights": [
+            "Conceptualized and developed web applications using ReactJS, propelling a 30% surge in user engagement for 2,000+ users.",
+            "Integrated RESTful APIs and translated designs into functional implementations, slashing data retrieval time by 40% and optimizing system performance through backend collaboration.",
+            "Orchestrated agile planning sessions, translating product requirements and user stories into actionable tasks, guaranteeing the on-time delivery of 4+ high-impact projects.",
+            "Deployed unit tests using Jest and Enzyme, elevating code quality with a 30% boost in reliability, and utilized Git for version control, minimizing conflicts by 40%.",
+            "Proficient in HTML, CSS, Bootstrap, React, Redux, React Router, advanced JavaScript (ES6+), and TypeScript.",
+            "Implemented performance optimizations, code-splitting techniques, and utilized modern front-end build tools like Webpack and Babel.",
+            "Experienced in state management, component lifecycle in React, responsive web design, and basic knowledge of Python and Java."
+        ]
+    },
+    {
+        "company": "Internshala",
+        "jobProfile": "Web Development",
+        "location": "Gurugram, India (Remote)",
+        "duration": "May 2020 - June 2020",
+        "highlights": [
+            "Crafted responsive and interactive web applications using HTML, CSS, JavaScript, and popular libraries like React.",
+            "Seamlessly integrated RESTful APIs to enhance the functionality and interactivity of web applications.",
+            "Coordinated with team members using version control systems like Git to manage and collaborate on codebases effectively.",
+            "Enhanced web applications for maximum speed and scalability, implementing best practices for efficient and maintainable code."
+        ]
+    }
+]
