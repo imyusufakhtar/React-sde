@@ -19,9 +19,9 @@ const About = () => {
             <div className="contact-main">
                 <h1 className="text4">who i am,</h1>
                 <section className="contact">
-                    <div className="text1" style={{ color: "white" }}>
+{/*                     <div className="text1" style={{ color: "white" }}>
                         I'm {profileData.name} And I'm a <span className="gray">{profileData.role}</span>
-                    </div>
+                    </div> */}
 
                     {profileData.highlights.map((highlight, index) => (
                         <p key={index}>{highlight}</p>
